@@ -6,6 +6,7 @@ const navLinks = [
   { href: "#why-water-soluble", label: "Why Water Soluble" },
   { href: "#colorado", label: "Our Source" },
   { href: "#faq", label: "FAQ" },
+  { href: "/blog", label: "Blog" },
 ];
 
 export default function Home() {
