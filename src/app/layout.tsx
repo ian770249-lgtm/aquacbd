@@ -41,6 +41,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://www.watersolublecbd.co.uk",
   },
+  verification: {
+    google: "_wHvZYkBgY9vLM8fM0c5P1LZLtu6bEpTnwQeDXNjLPc",
+  },
   robots: {
     index: true,
     follow: true,
