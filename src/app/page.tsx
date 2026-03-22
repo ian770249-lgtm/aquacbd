@@ -276,7 +276,7 @@ export default function Home() {
                   { icon: "📋", title: "Licensed Growers", desc: "Every farm is state-licensed and annually inspected" },
                   { icon: "🔬", title: "Mandatory Lab Testing", desc: "Required by law at multiple stages of production" },
                   { icon: "🌱", title: "Seed-to-Shelf Traceability", desc: "Full chain of custody from plant to product" },
-                  { icon: "🏅", title: "Certified Processors", desc: "Colorado&apos;s central processors meet pharmaceutical-grade standards" },
+                  { icon: "🏅", title: "Certified Processors", desc: "Colorado's central processors meet pharmaceutical-grade standards" },
                 ].map((item) => (
                   <div key={item.title} className="bg-gray-50 rounded-2xl p-5">
                     <div className="text-2xl mb-2">{item.icon}</div>
